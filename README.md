@@ -1,6 +1,6 @@
 # CTF-MNMF
 The separated sources by CTF-MNMF are obtained using our proposed method [1].
-
+  
 The separated sources by ILRMA [2] are obtained using the code by D. Kitamura, which is publicly avaiable on the website https://github.com/d-kitamura/ILRMA.
 
 The separated sources by FastMNMF [3] are obtained using the code by K. Sekiguchi, which is publicly avaiable on the website https://github.com/sekiguchi92/SoundSourceSeparation/tree/master/Jointly_Diagonalizable_FullRank_Model.
